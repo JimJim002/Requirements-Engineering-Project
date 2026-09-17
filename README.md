@@ -5,7 +5,7 @@ Name: James Clifford
 ## Module
 Requirements Engineering
 ## Project Status
-Week 1 - Initial discovery
+### Week 1 - Initial discovery
 1. Facts
 2. Assumptions
 3. Unknowns
