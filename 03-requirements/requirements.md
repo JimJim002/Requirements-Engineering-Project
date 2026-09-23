@@ -1,34 +1,34 @@
-## Week 3 - Requirements Analysis & Specification
+# Week 3 - Requirements Analysis & Specification
 
-## 1. What can be considered as a Requirement?
+# 1. What can be considered as a Requirement?
 
-# 1. "People are sometimes unsure whether a camera is available."
+## 1. "People are sometimes unsure whether a camera is available."
 
 Problem/Observation: The stakeholders have highlighted an issue about the uncertainty of whether or not the camera equipment is available or not.
 
-# 2. "Technicians need to know what equipment is due back."
+## 2. "Technicians need to know what equipment is due back."
 
 Stakeholder Need/Concern:
 
-# 3. "The system shall record the expected return date for each booking."
+## 3. "The system shall record the expected return date for each booking."
 
 Candidate Requirement:
 
-# 4. "The college should build a mobile app."
+## 4. "The college should build a mobile app."
 
 Solution Idea: 
 
-# 5. "We assume all users will have a college login."
+## 5. "We assume all users will have a college login."
 
 Assumption:
 
-# 6. "A lecturer wants reliable availability information before promising equipment."
+## 6. "A lecturer wants reliable availability information before promising equipment."
 
 Stakeholder Need/Concern which evolves into a Candidate Requirement later on:
 
 
 
-## 2. Requirements Surgery Overview
+# 2. Requirements Surgery Overview
 "The system shall record the expected return date for each booking."
 
 FIND: The requirement wants the system to be able to record return dates for each booking.
@@ -42,9 +42,9 @@ CHECK: Verifying the requirement:
 4. WHY is this needed?
 5. HOW could we verify it?
 
-## 3. Requirements Surgery Work
+# 3. Requirements Surgery Work
 
-# 1. "The system shall be user-friendly."
+## 1. "The system shall be user-friendly."
 
 PROBLEM: It's too vague on what users are involved, what the system needs to do and what is "user-friendly" (subjective).
 
