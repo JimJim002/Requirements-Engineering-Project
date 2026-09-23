@@ -45,6 +45,7 @@ CHECK: Verifying the requirement:
 ## 3. Requirements Surgery Work
 
 1. "The system shall be user-friendly."
+
 PROBLEM: It's too vague on what users are involved, what the system needs to do and what is "user-friendly" (subjective).
 CLARIFICATION QUESTION: "What users are involved for this system? What does the system do?"
 MISSING INFORMATION: 
