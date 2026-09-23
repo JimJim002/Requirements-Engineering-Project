@@ -1,6 +1,6 @@
 # Week 3 - Requirements Analysis & Specification
 
-# 1. What can be considered as a Requirement?
+## 1. What can be considered as a Requirement?
 
 ### 1. "People are sometimes unsure whether a camera is available."
 
@@ -28,7 +28,7 @@ Stakeholder Need/Concern which evolves into a Candidate Requirement later on:
 
 
 
-# 2. Requirements Surgery Overview
+## 2. Requirements Surgery Overview
 "The system shall record the expected return date for each booking."
 
 FIND: The requirement wants the system to be able to record return dates for each booking.
@@ -42,7 +42,7 @@ CHECK: Verifying the requirement:
 4. WHY is this needed?
 5. HOW could we verify it?
 
-# 3. Requirements Surgery Work
+## 3. Requirements Surgery Work
 
 ### 1. "The system shall be user-friendly."
 
