@@ -45,13 +45,16 @@
    
    (b) Concern: Any unauthorised access to student or staff or any data leaks that leads to the exposure of personal information.
 
-## Unknowns
-1. Are there any differentiation when it comes to booking equipment that are different from each other?
-2. What information is required for booking the equipment?
-
-## Information Sources
+## Unknowns & Information Sources
+1. What are the variations when it comes to booking equipment? Who could answer? - Equipment Manager
+2. What specific information is required and needs to be validated for booking the equipment? Who could answer? - IT Support
 
 ## Elicitation Questions
+1. What is the current process the students are using for requesting and booking equipment, and how do students verify that request?
+2. What are the issues that staff may encountered if an equipment has been returned late or hasn't been returned at all?
+3. What happens if a student requests an extension for borrowing an equipment due to an emergency or if the equipment has been damaged during use?
+4. What specific data must be collected for an equipment when it's first registered within the system?
+5. What are the consequences/fines for late returns and who is responsible of enforcing them?
 
 ## Interview Notes
 
