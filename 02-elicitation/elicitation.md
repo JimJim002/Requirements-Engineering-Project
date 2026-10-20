@@ -66,4 +66,4 @@
 1. Is the current system able to directly connect to college login accounts?
 
 ## Candidate Requirement
-The system shall suspend a student's account if they fail to follow the guidelines.
+The system shall suspend a student's account for a certain period of time if they fail to follow the guidelines.
