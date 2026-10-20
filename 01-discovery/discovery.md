@@ -35,7 +35,9 @@
 Challenge: Staff/College may want to know the student booking the equipment while students may prefer to be anonymous when booking equipment.
 
 ## 5. Goals
-1. This system should help the college to efficiently monitor the amount of bookings for equipment (prevent the ability of double-booking an equipment), the availability/visibility of equipment, and any missing/not returned equipment.
+1. This system should help the college to efficiently monitor the amount of bookings for equipment (prevent the ability of double-booking an equipment). 
+2. This system should help the college to efficiently monitor the availability/visibility of equipment, and any missing/not returned equipment.
+3. This system should the stakeholders to be able to communicate efficiently and more easily.
 
 ## 6. Scope
 In scope:
