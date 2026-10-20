@@ -56,6 +56,7 @@ Functional requirements:
 2. The system shall reveal the availability of the equipment for authorised users.
 3. The system shall notify the deadlines for returning equipment to users, along with the fines in failing to do so.
 4. The system shall allow authorised staff to manage equipment bookings.
+   
 Non-functional requirements:
 1. The system shall support accessible use.
 2. The system shall restrict booking-management functions to authorised users.
