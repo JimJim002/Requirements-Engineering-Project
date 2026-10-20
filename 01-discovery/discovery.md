@@ -41,9 +41,13 @@ Challenge: Staff/College may want to know the student booking the equipment whil
 
 ## 6. Scope
 In scope:
-1. 
+1. Real Time Inventory Tracking: To be able to track down the progress of when the equipment becomes available or is unavailable.
+2. Special Order Management: To be able to record any details and status relating to custom requests.
+3. Recording Sales Transaction History: To be able to record and review any transactions made within the system.
 Out of scope/not yet established:
-1. 
+1. Supplier Purchasing: Can the system place orders with third-party vendors without the need of authorisation?
+2. E-Books Support: Does the system support the likes of e-books in terms of sales/distribution?
+3. A Digital Reading List Integration: Does the systems have a link that extracts textbook lists from the college's curriculum software?
 
 ## 7. Candidate Requirements
 Functional requirements:
