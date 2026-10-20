@@ -65,6 +65,7 @@ Non-functional requirements:
 R1 - "The system should be easy to use."
 1. Issue - Weak requirement because "easy" is subjective and difficult to test.
 2. Rewrite - 90% of 1st year student should be able to book equipment without assistance.
+   
 R2 - "The system should be secure."
 1. Issue - Secure can be subjective. How secure does the system need to be?
 2. Rewrite - The system should encrypt all customer personal records and sales history in transit and restrict access to financial dashboards strictly to verified store managers. 
