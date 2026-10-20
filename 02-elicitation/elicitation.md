@@ -57,5 +57,13 @@
 5. What are the consequences/fines for late returns and who is responsible of enforcing them?
 
 ## Interview Notes
+3 Things Learned:
+1. There's no automated way to notify the student if the equipment was to be missing/lost/damaged.
+2. Double booking occurs due to the tracking sheet not being updated in real time.
+3. There is the consequence for a student's account to become suspended instead of being fined should they fail to follow the guidelines.
+
+1 Thing That Isn't Known:
+1. Is the current system able to directly connect to college login accounts?
 
 ## Candidate Requirement
+The system shall suspend a student's account if they fail to follow the guidelines.
