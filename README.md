@@ -19,8 +19,7 @@ Requirements Engineering
 1. Stakeholders
 2. Stakeholder Needs & Concerns
 3. Unknowns
-4. Information Sources
-5. Elicitation Questions
-6. Interview Notes
-7. Candidate Requirement
+4. Elicitation Questions
+5. Interview Notes
+6. Candidate Requirement
 ## Repository Purpose
