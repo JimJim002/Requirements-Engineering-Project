@@ -18,7 +18,7 @@ Requirements Engineering
 ### Week 2 - Stakeholders & Requirement Elicitation
 1. Stakeholders
 2. Stakeholder Needs & Concerns
-3. Unknowns
+3. Unknowns & Information Sources
 4. Elicitation Questions
 5. Interview Notes
 6. Candidate Requirement
