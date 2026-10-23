@@ -22,4 +22,13 @@ Requirements Engineering
 4. Elicitation Questions
 5. Interview Notes
 6. Candidate Requirement
+7. Reflection
+### Week 3 - Requirements & Analysis Specification
+1. Candidate Requirements
+2. Requirement Surgery Overview
+3. Requirement Surgery Work
+4. Functional Requirements
+5. Quality Requirements
+6. Project Application
+7. Reflection
 ## Repository Purpose
