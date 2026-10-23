@@ -60,10 +60,13 @@
 3 Things Learned:
 1. There's no automated way to notify the student if the equipment was to be missing/lost/damaged.
 2. Double booking occurs due to the tracking sheet not being updated in real time.
-3. There is the consequence for a student's account to become suspended instead of being fined should they fail to follow the guidelines.
+3. There is the consequence for a student's account to become temporarily suspended rather than being fined should they fail to follow the guidelines.
 
 1 Thing That Isn't Known:
 1. Is the current system able to directly connect to college login accounts?
 
 ## Candidate Requirement
 The system shall suspend a student's account for a certain period of time if they fail to follow the guidelines.
+
+## Reflection
+Upon completing the Elicitation phase, there was a clear idea of what stakeholders were involved with the system and the reasons for it. There are conflicts that were identified between the interests of different stakeholders (students wanting to prevent being unfairly fined versus the staff's concern over huge manual workloads). To add to this, the targeted elicitation questions reveals some major flaws within the current system being used, such as a lack of real time tracking and automatic notifications. There is also the fact that double booking is the result of the data not updating rather than a lack of equipment, and the fact that system relies on temporarily suspension for a student's account rather than fines if guidelines are breached.
