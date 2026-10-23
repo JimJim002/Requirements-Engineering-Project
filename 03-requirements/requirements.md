@@ -40,12 +40,11 @@ ASK: "What stakeholder would be involved in the recording of return dates for th
 REPAIR: "The system shall record an expected return date when a booking coordinator creates a new booking reservation."
 
 CHECK: Verifying the requirement:
-1. WHO is involved?
-   The system itself.
-3. WHAT must the system do?
-4. WHEN does a condition apply?
-5. WHY is this needed?
-6. HOW could we verify it?
+1. WHO is involved? The booking coordinator.
+2. WHAT must the system do? Automatically records the expected return date.
+3. WHEN does a condition apply? When a new booking reservation is created.
+4. WHY is this needed? For clearer visibility and for tracking equipment due dates more accurately.
+5. HOW could we verify it? Log into the system, create a new booking reservation, save it, and then check the UI to verify that the specific return date was recorded correctly and is saved automatically within the system.
 
 ## 3. Requirements Surgery Work
 
@@ -55,7 +54,7 @@ PROBLEM: It's too vague on what users are involved, what the system needs to do 
 
 CLARIFICATION QUESTION: "What users are involved for this system? What does the system do?"
 
-MISSING INFORMATION: 
+MISSING INFORMATION: The specific types of users included for this experience and the specific workflows that needs to become simplified for use.
 
 ### 2. "The system shall notify users about bookings."
 
@@ -63,7 +62,7 @@ PROBLEM: It's too vague on what users are involved, whether it's all users or a 
 
 CLARIFICATION QUESTION: "What users are involved for this system? What types of notifications will the system use?"
 
-MISSING INFORMATION:
+MISSING INFORMATION: The recipient who actually gets the notifications, the method of delivering the notifications and the action that triggers the notification.
 
 ### 3. "The system shall allow staff to create, edit and delete bookings and send reminders."
 
@@ -71,7 +70,7 @@ PROBLEM: It's too vague on what type of staff is involved, and if the staff may 
 
 CLARIFICATION QUESTION: "What type of staff is involved, is it all of the staff or a specific staff that can utilise the system?"
 
-MISSING INFORMATION:
+MISSING INFORMATION: The specific staff that is assigned and gains access to the controls and whether reminders are sent automatically or manually by the specific staff.
 
 ## 4. Develop Functional Requirements
 
