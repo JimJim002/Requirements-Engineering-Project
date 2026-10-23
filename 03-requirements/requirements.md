@@ -8,23 +8,23 @@ Problem/Observation: The stakeholders have highlighted an issue about the uncert
 
 ### 2. "Technicians need to know what equipment is due back."
 
-Stakeholder Need/Concern:
+Stakeholder Need/Concern: This highlights the specific point of view for technicians and the lack of information they require to do their job efficiently.
 
 ### 3. "The system shall record the expected return date for each booking."
 
-Candidate Requirement:
+Candidate Requirement: The keyword "shall" is associated with candidate requirement which specifies the action the system shall perform.
 
 ### 4. "The college should build a mobile app."
 
-Solution Idea: 
+Solution Idea: This is more of technological implementation solution rather than looking into the problem itself.
 
 ### 5. "We assume all users will have a college login."
 
-Assumption:
+Assumption: This is the base condition that is factually given.
 
 ### 6. "A lecturer wants reliable availability information before promising equipment."
 
-Stakeholder Need/Concern which evolves into a Candidate Requirement later on:
+Stakeholder Need/Concern which evolves into a Candidate Requirement later on: It starts off as a user goal and is a concern due to how subjective "reliable" is. Eventually, a technical candidate requirement will occur later as the statement outlines a workflow that will lead there.
 
 
 
@@ -37,14 +37,15 @@ DIAGNOSE: The requirement does not specify who would be involved with the record
 
 ASK: "What stakeholder would be involved in the recording of return dates for the bookings?"
 
-REPAIR:
+REPAIR: "The system shall record an expected return date when a booking coordinator creates a new booking reservation."
 
 CHECK: Verifying the requirement:
 1. WHO is involved?
-2. WHAT must the system do?
-3. WHEN does a condition apply?
-4. WHY is this needed?
-5. HOW could we verify it?
+   The system itself.
+3. WHAT must the system do?
+4. WHEN does a condition apply?
+5. WHY is this needed?
+6. HOW could we verify it?
 
 ## 3. Requirements Surgery Work
 
