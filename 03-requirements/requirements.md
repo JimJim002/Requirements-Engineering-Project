@@ -39,7 +39,7 @@ CHECK: Verifying the requirement:
 4. WHY is this needed? For clearer visibility and for tracking equipment due dates more accurately.
 5. HOW could we verify it? Log into the system, create a new booking reservation, save it, and then check the UI to verify that the specific return date was recorded correctly and is saved automatically within the system.
 
-## 3. Requirements Surgery
+## 3. Requirements Surgery Work
 
 ### 1. "The system shall be user-friendly."
 PROBLEM: It's too vague on what users are involved, what the system needs to do and what is "user-friendly" (subjective).
